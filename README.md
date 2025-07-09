@@ -1,7 +1,7 @@
 # 🚀 9H Club – Hustle. Hack. Hype.  
 *A Frontend Concept Website to Showcase Modern Web Design Skills*
 
-Welcome to the **9H Club** — not an official organization, but a *fictional student tech club* designed as a frontend showcase project. This site is built to flex modern web dev skills, simulate a real-world club portal, and deliver an engaging user experience with clean design, responsiveness, and flair.
+Welcome to the **9H Club** which is not an official organization, but a *fictional student tech club* designed as a frontend showcase project. This site is built to flex modern web dev skills, simulate a real-world club portal and deliver an engaging user experience with clean design, responsiveness, and flair.
 
 ---
 
